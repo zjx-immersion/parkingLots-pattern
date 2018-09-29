@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.thoughtworks.oobootcamp.SuperParkingBoyTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2018-09-15T10:25:18" hostname="Xianjing-2.local" time="0.004">
+  <properties/>
+  <testcase name="should_pickup_right_car_given_right_ticket()" classname="com.thoughtworks.oobootcamp.SuperParkingBoyTest" time="0.001"/>
+  <testcase name="should_park_to_second_lot()" classname="com.thoughtworks.oobootcamp.SuperParkingBoyTest" time="0.0"/>
+  <testcase name="should_park_failed()" classname="com.thoughtworks.oobootcamp.SuperParkingBoyTest" time="0.0"/>
+  <testcase name="should_pickup_failed_given_invalid_ticket()" classname="com.thoughtworks.oobootcamp.SuperParkingBoyTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

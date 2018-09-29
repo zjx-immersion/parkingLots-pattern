@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.thoughtworks.oobootcamp.ParkingLotTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2018-09-15T10:25:18" hostname="Xianjing-2.local" time="0.005">
+  <properties/>
+  <testcase name="should_return_vailable_lots()" classname="com.thoughtworks.oobootcamp.ParkingLotTest" time="0.0"/>
+  <testcase name="should_return_available_lots()" classname="com.thoughtworks.oobootcamp.ParkingLotTest" time="0.0"/>
+  <testcase name="should_failed_given_an_invalid_ticket()" classname="com.thoughtworks.oobootcamp.ParkingLotTest" time="0.001"/>
+  <testcase name="should_failed_given_lots_is_full()" classname="com.thoughtworks.oobootcamp.ParkingLotTest" time="0.0"/>
+  <testcase name="should_pickup_right_car_given_a_ticket()" classname="com.thoughtworks.oobootcamp.ParkingLotTest" time="0.001"/>
+  <testcase name="should_park_succeed_given_available_lots()" classname="com.thoughtworks.oobootcamp.ParkingLotTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
